@@ -14,6 +14,12 @@ Table of Contents
 
 AS AN avid traveller I WANT to be able to track my withdrawals and deposits with or without a data/internet connection SO THAT my account balance is accurate when I am traveling.
 
+GIVEN a user is using this Heroku-deployed Budget App
+
+WHEN there is no internet connection
+
+THEN any user input (withdrawal or deposit) will be displayed and added to their transaction history when their connection is back on
+
 ## Images
 
 
