@@ -22,6 +22,9 @@ THEN any user input (withdrawal or deposit) will be displayed and added to their
 
 ## Images
 
+Fig. 1: Landing Page Before Data
+![Landing Page](./public/assets/img/initial.PNG)
+
 
 ## Install
 
