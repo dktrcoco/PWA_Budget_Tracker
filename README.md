@@ -5,6 +5,7 @@ Link to Heroku Deployment: https://pwabudgetracker.herokuapp.com/
 Table of Contents
 * [User Story](#story)
 * [Images](#images)
+* [Gifs](#gifs)
 * [Install](#install)
 * [Contribution](#contribution)
 * [Testing](#testing)
@@ -25,6 +26,13 @@ THEN any user input (withdrawal or deposit) will be displayed and added to their
 Fig. 1: Landing Page Before Data
 ![Landing Page](./public/assets/img/initial.PNG)
 
+Fig. 2: Budget Data Displayed
+![Page_With_Data](./public/assets/img/data.PNG)
+
+## Gifs
+
+Gif 1: Offline Functionality
+![Offline_Functionality](./public/assets/gif/offline.gif)
 
 ## Install
 
@@ -32,7 +40,7 @@ Being a Heroku-deployed application, there is no installation required for the u
 
 Being open-source, if someone wants to dig into the nuts and bolts of this application, simply clone the repo and use the CLI to install the necessary node module packages/dependencies
 
-It should be noted that this application utilizes MongoDB, so this should be installed separately prior to running/testing this application locally.
+It should be noted that this application utilizes MongoDB locally (MongoDB Atlas for Heroku Deployment Use), so this should be installed separately prior to running/testing this application locally.
 
 ## Contribution
 
@@ -44,6 +52,7 @@ Please contact me (chris.kabana@gmail.com) if you have something specific you wo
 
 ## Testing
 
+If you are investigating this code locally, testing through cli and local hosting is encouraged. If you find anything, please open an issue or contact me directly.
 
 ## Questions
 
