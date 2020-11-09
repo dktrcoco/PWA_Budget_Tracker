@@ -32,6 +32,7 @@ Fig. 2: Budget Data Displayed
 ## Gifs
 
 Gif 1: Offline Functionality
+
 ![Offline_Functionality](./public/assets/gif/offline.gif)
 
 ## Install
@@ -52,7 +53,7 @@ Please contact me (chris.kabana@gmail.com) if you have something specific you wo
 
 ## Testing
 
-If you are investigating this code locally, testing through cli and local hosting is encouraged. If you find anything, please open an issue or contact me directly.
+If you are investigating this code locally, testing through cli and local hosting is encouraged. Additionally, in order to test offline functionality, you'll need to go to Inspect -> Application -> Service Worker and check the box marked 'offline'. If you find anything, please open an issue or contact me directly.
 
 ## Questions
 
